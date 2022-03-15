@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/airbnb-landing-page/static/js/main.2deca291.js",
+    "static/js/787.e8223466.chunk.js": "/airbnb-landing-page/static/js/787.e8223466.chunk.js",
+    "static/media/barcelona.jpg": "/airbnb-landing-page/static/media/barcelona.80ba629a62c48f766bd6.jpg",
+    "static/media/gnocchi.jpg": "/airbnb-landing-page/static/media/gnocchi.b96f0ba83cb14400fada.jpg",
+    "static/media/photo-grid.png": "/airbnb-landing-page/static/media/photo-grid.294d59b66b94e0e456cf.png",
+    "static/media/mountain-bike.png": "/airbnb-landing-page/static/media/mountain-bike.e249d8a7c9dd6935df4c.png",
+    "static/media/wedding-photography.png": "/airbnb-landing-page/static/media/wedding-photography.62dfa0af6d4f23912427.png",
+    "static/media/katie-zaferes.png": "/airbnb-landing-page/static/media/katie-zaferes.8c39a93af3d2de2b3c27.png",
+    "static/media/airbnb-logo.png": "/airbnb-landing-page/static/media/airbnb-logo.e4424517383d14a03a24.png",
+    "index.html": "/airbnb-landing-page/index.html",
+    "main.2deca291.js.map": "/airbnb-landing-page/static/js/main.2deca291.js.map",
+    "787.e8223466.chunk.js.map": "/airbnb-landing-page/static/js/787.e8223466.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2deca291.js"
+  ]
+}
